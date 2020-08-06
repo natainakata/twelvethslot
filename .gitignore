@@ -20,6 +20,6 @@ usercache.json
 usernamecache.json
 *.ogg
 *.wav
-*exanple
+*example*
 /config/enderio/recipes/*.pdf
 /.mixin.out/

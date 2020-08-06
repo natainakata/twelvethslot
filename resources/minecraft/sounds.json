@@ -1,0 +1,63 @@
+{
+  "mob.cat.ambient": {
+    "category": "neutral", 
+    "replace": true, 
+    "sounds": [
+      "mob/cat/meow1",
+      "mob/cat/meow2",
+      "mob/cat/meow3",
+      "mob/cat/meow4"
+    ]
+  },
+
+  "mob.cat.death": {
+    "category": "neutral",
+    "replace" : true, 
+    "sounds": [
+      "mob/cat/death1",
+      "mob/cat/death2",
+      "mob/cat/death3"
+    ]
+  },
+
+  "mob.cat.hurt": {
+    "category": "neutral", 
+    "replace": true, 
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2"
+    ]
+  },
+
+  "mob.cat.hiss": {
+    "category": "neutral", 
+    "replace": true, 
+    "sounds": [
+      "mob/cat/hiss1",
+      "mob/cat/hiss2",
+      "mob/cat/hiss3"
+    ]
+  },
+
+  "mob.cat.purr": {
+    "category": "neutral", 
+    "replace": true, 
+    "sounds": [
+      "mob/cat/purr1",
+      "mob/cat/purr2",
+      "mob/cat/purr3"
+    ]
+  },
+
+  "mob.cat.purreow": {
+    "category": "neutral", 
+    "replace": true, 
+    "sounds": [
+      "mob/cat/purreow1",
+      "mob/cat/purreow2"
+    ]
+  }
+}
+
+
+

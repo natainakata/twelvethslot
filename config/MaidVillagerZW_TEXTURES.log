@@ -1,0 +1,32 @@
++------------------------------------------+
+ This log file is output only.
+ このファイルはコンフィグじゃありませんよ
++------------------------------------------+
+
+
++--------------------------------------+
+ villager texture not enough.
+ 村人のテクスチャが足りませんよ
++--------------------------------------+
+	"dcs_climate:agri_researcher" needs "\assets\dcs_climate\textures\entity\maidvillager\agri_researcher.png"
+	"dcs_climate:engineer" needs "\assets\dcs_climate\textures\entity\maidvillager\engineer.png"
+	"dcs_climate:trader" needs "\assets\dcs_climate\textures\entity\maidvillager\trader.png"
+	"dcs_climate:tailor" needs "\assets\dcs_climate\textures\entity\maidvillager\tailor.png"
+	"sakura:wa_profession" needs "\assets\sakura\textures\entity\maidvillager\wa_profession.png"
+	"sakura:wa_silk" needs "\assets\sakura\textures\entity\maidvillager\wa_silk.png"
+	"actuallyadditions:jamguy" needs "\assets\actuallyadditions\textures\entity\maidvillager\jamguy.png"
+	"actuallyadditions:engineer" needs "\assets\actuallyadditions\textures\entity\maidvillager\engineer.png"
+
+
++--------------------------------------+
+ zombie_villager texture not enough.
+ 村人ゾンビのテクスチャが足りませんよ
++--------------------------------------+
+	"dcs_climate:agri_researcher" needs "\assets\dcs_climate\textures\entity\maidzombie\zombie_agri_researcher.png"
+	"dcs_climate:engineer" needs "\assets\dcs_climate\textures\entity\maidzombie\zombie_engineer.png"
+	"dcs_climate:trader" needs "\assets\dcs_climate\textures\entity\maidzombie\zombie_trader.png"
+	"dcs_climate:tailor" needs "\assets\dcs_climate\textures\entity\maidzombie\zombie_tailor.png"
+	"sakura:wa_profession" needs "\assets\sakura\textures\entity\maidzombie\zombie_wa_profession.png"
+	"sakura:wa_silk" needs "\assets\sakura\textures\entity\maidzombie\zombie_wa_silk.png"
+	"actuallyadditions:jamguy" needs "\assets\actuallyadditions\textures\entity\maidzombie\zombie_jamguy.png"
+	"actuallyadditions:engineer" needs "\assets\actuallyadditions\textures\entity\maidzombie\zombie_engineer.png"
