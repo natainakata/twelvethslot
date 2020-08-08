@@ -23,3 +23,4 @@ usernamecache.json
 *example*
 /config/enderio/recipes/*.pdf
 /.mixin.out/
+zs_export.json
